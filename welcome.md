@@ -1,2 +1,2 @@
-***Welcome to Orange Hat!***
-this is the documentation for Orange Hat for the new Contributor!
+***Welcome to OrangeHat!***
+this is the documentation for OrangeHat for the new Contributor!
